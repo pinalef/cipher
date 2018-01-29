@@ -1,0 +1,23 @@
+{
+  "name": "cipher",
+  "version": "1.0.0",
+  "description": "cifrado cesar",
+  "main": "app.js",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^4.16.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pinalef/cipher.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pinalef/cipher/issues"
+  },
+  "homepage": "https://github.com/pinalef/cipher#readme"
+}
